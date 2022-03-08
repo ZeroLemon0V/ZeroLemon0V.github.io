@@ -17,7 +17,7 @@ body { margin:0; padding:0; background-image:url(../images/b4.jpg);}
 	position: absolute;
 	top: 50%;
 	left: 4%;
-	height: 350px;
+	height: 320px;
 	width: 700px;
 	background-image:url(../images/text2.png);
 	-transition-property:all; 
@@ -302,7 +302,6 @@ body { margin:0; padding:0; background-image:url(../images/b4.jpg);}
 	position:fixed;
 	width:100%;
 	height:100%;
-	margin-top: auto;
 }
 #music{
 	float:right;
