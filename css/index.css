@@ -15,9 +15,9 @@ body { margin:0; padding:0; background-image:url(../images/b4.jpg);}
 }
 #text2 {
 	position: absolute;
-	top: 40%;
+	top: 50%;
 	left: 4%;
-	height: 222px;
+	height: 350px;
 	width: 700px;
 	background-image:url(../images/text2.png);
 	-transition-property:all; 
